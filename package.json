@@ -1,0 +1,21 @@
+{
+  "name": "web-worker-fetch",
+  "version": "1.0.0",
+  "description": "A simple way to use fetch API with web worker",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Youky1/web-worker-fetch.git"
+  },
+  "keywords": [
+    "web worker",
+    "fetch"
+  ],
+  "author": "youky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Youky1/web-worker-fetch/issues"
+  },
+  "homepage": "https://github.com/Youky1/web-worker-fetch#readme"
+}
